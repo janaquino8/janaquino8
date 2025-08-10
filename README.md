@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello everyone! 👋
+
+Jan Aquino here. I am an undergraduate student from De La Salle University, taking a Bachelor of Science in Computer Science Major in Software Technology degree.
+
+This is where I upload my programming projects, whether academic-related or personal. Stay tuned!
 
 <!--
 **janaquino8/janaquino8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
