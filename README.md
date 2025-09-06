@@ -18,6 +18,7 @@ This is where I upload my programming projects, whether academic-related or pers
 - A bot to solve Sokoban levels
 - Grinding Kattis and Hackerrank
 - Learning Ruby, R, and Kotlin
+- Practicing Git using the command line
 
 <!--
 **janaquino8/janaquino8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
