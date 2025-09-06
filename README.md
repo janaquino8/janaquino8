@@ -4,6 +4,19 @@ Jan Aquino here. I am an undergraduate student from De La Salle University, taki
 
 This is where I upload my programming projects, whether academic-related or personal. Stay tuned!
 
+## Languages
+- C
+- Java
+- HTML
+- CSS
+- JavaScript
+- Python
+
+## Currently working on
+- A bot to solve Sokoban levels
+- Grinding Kattis and Hackerrank
+- Learning Ruby, R, and Kotlin
+
 <!--
 **janaquino8/janaquino8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
