@@ -1,6 +1,8 @@
-## Hello everyone! 👋
+# Hello everyone! I'm Jan! 👋
 
-Jan Aquino here. I am an undergraduate student from De La Salle University, taking a Bachelor of Science in Computer Science Major in Software Technology degree.
+I am an undergraduate student from De La Salle University, taking a Bachelor of Science in Computer Science Major in Software Technology degree.
+
+I have a great interest in exploring the world of computer science and participating in extracurricular organizations.
 
 This is where I upload my programming projects, whether academic-related or personal. Stay tuned!
 
