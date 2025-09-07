@@ -17,6 +17,7 @@ This is where I upload my programming projects, whether academic-related or pers
 ## Currently working on
 - A bot to solve Sokoban levels
 - Grinding Kattis and Hackerrank
+- Further exploring Python
 - Learning Ruby, R, and Kotlin
 - Practicing Git using the command line
 
